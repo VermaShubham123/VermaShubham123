@@ -8,5 +8,5 @@ VermaShubham123/VermaShubham123 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 
 
-!(https://leetcard.jacoblin.cool/Shubham_ma22m017?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Shubham_ma22m017?ext=heatmap)
 --->
