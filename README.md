@@ -16,12 +16,14 @@ Data Science and Generative AI enthusiast.
 - Advanced GenAI
 - AWS for ML
 
-- 📫 How to reach me ...ma22m017@smail.iitm.ac.in,  https://www.linkedin.com/in/shubham-verma-52300b167/ , shubh.mygzb@gmail.com
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/shubhamV9599?theme=dark&font=baloo&ext=heatmap)
+
+## 📫 How to reach me
+ma22m017@smail.iitm.ac.in  
+shubh.mygzb@gmail.com  
+https://www.linkedin.com/in/shubham-verma-52300b167/
 
 <!---
-VermaShubham123/VermaShubham123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/shubhamV9599?theme=dark&font=baloo&ext=heatmap)
+VermaShubham123/VermaShubham123 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
