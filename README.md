@@ -1,6 +1,21 @@
-- 👋 Hi, I’m Shubham Verma
-- 👀 I’m interested in Data Science, Machine Learning, and other profiles related to data engineering and softwares.
-- 🌱 I’m currently learning python,javascript,machine learning.
+# Hi, I'm Shubham 👋
+Data Science and Generative AI enthusiast.
+
+## Skills
+- Python
+- Machine Learning
+- Pandas
+- Scikit-learn
+- SQL
+- LangChain
+- OpenAI
+- FAISS
+- AWS (learning)
+
+## Currently Learning
+- Advanced GenAI
+- AWS for ML
+
 - 📫 How to reach me ...ma22m017@smail.iitm.ac.in,  https://www.linkedin.com/in/shubham-verma-52300b167/ , shubh.mygzb@gmail.com
 
 <!---
